@@ -98,7 +98,9 @@ GROUP BY m.member_id, m.name
 ORDER BY attend_count DESC
 LIMIT 10;
 ```
+
 **執行結果**
+
 ![3-2](3-2.png)
 
 **可增加的索引（可提升查詢效率）**

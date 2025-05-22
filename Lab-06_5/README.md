@@ -43,6 +43,7 @@ ORDER BY
 ```
 
 **執行結果**
+
 ![5-1](5-1.png)
 
 **EXPLAIN 分析**
@@ -87,6 +88,7 @@ HAVING SUM(r.entry_time IS NULL) = 0;
 ```
 
 **執行結果**
+
 ![5-2](5-2.png)
 
 **使用 `NOT EXISTS` 或 `NOT IN` 實作，何者效能較佳？**

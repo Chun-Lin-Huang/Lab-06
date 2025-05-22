@@ -58,6 +58,7 @@ WHERE r.registration_id IS NULL;
 ```
 
 **執行結果**
+
 ![2-1](2-1.png)
 
 #### 題目 2-2
@@ -87,4 +88,5 @@ WHERE s.role = 'COACH'
 ```
 
 **執行結果**
+
 ![2-2](2-2.png)

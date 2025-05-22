@@ -110,4 +110,5 @@ JOIN Registrations rB ON m.member_id = rB.member_id AND rB.course_schedule_id = 
 ```
 
 **執行結果**
+
 ![1-2](1-2.png)
