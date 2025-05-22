@@ -50,8 +50,8 @@ WHERE r.registration_id IS NULL;
 ```
 
 **執行結果**
-![1-1](1-1.png)
 
+![1-1](1-1.png)
 
 #### 題目 1-2
 **列出同時報名過兩個指定時段（假設 `course_schedule_id = 'A'`、`'B'`）的會員**
